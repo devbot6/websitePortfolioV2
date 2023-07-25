@@ -1,64 +1,27 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 861px;
+  min-height: 870px;
 }
 
 .u-section-1 .u-image-1 {
   height: 236px;
-  margin-top: -21px;
+  margin-top: 0;
   margin-bottom: 0;
 }
 
 .u-section-1 .u-text-1 {
-  margin: 13px 0 44px;
-}
-
-@media (max-width: 1199px) {
-  .u-section-1 .u-image-1 {
-    margin-top: 66px;
-  }
-
-  .u-section-1 .u-text-1 {
-    margin-top: -86px;
-    margin-bottom: 0;
-  }
-}
-
-@media (max-width: 991px) {
-  .u-section-1 .u-image-1 {
-    margin-top: 200px;
-  }
-
-  .u-section-1 .u-text-1 {
-    margin-top: 20px;
-    margin-bottom: 44px;
-  }
+  margin: 44px 0 0;
 }
 
 @media (max-width: 767px) {
-  .u-section-1 .u-image-1 {
-    margin-top: 216px;
-  }
-
   .u-section-1 .u-text-1 {
-    margin-top: -237px;
-    margin-bottom: 0;
-  }
-}
-
-@media (max-width: 575px) {
-  .u-section-1 .u-image-1 {
-    margin-top: 491px;
-  }
-
-  .u-section-1 .u-text-1 {
-    margin-top: 20px;
+    margin-bottom: 60px;
   }
 }.u-section-2 .u-sheet-1 {
-  min-height: 570px;
+  min-height: 560px;
 }
 
 .u-section-2 .u-text-1 {
-  margin: 0 0 60px;
+  margin: 0;
 }
 
 @media (max-width: 1199px) {
@@ -70,7 +33,7 @@
     margin-top: 60px;
   }
 }.u-section-3 .u-sheet-1 {
-  min-height: 477px;
+  min-height: 527px;
 }
 
 .u-section-3 .u-text-1 {
@@ -81,31 +44,31 @@
   .u-section-3 .u-sheet-1 {
     min-height: 728px;
   }
-}
-
-@media (max-width: 767px) {
-  .u-section-3 .u-text-1 {
-    margin-top: 60px;
-    margin-bottom: 60px;
-  }
 }.u-section-4 .u-sheet-1 {
-  min-height: 650px;
+  min-height: 610px;
 }
 
 .u-section-4 .u-text-1 {
-  margin: 21px 0 19px;
+  margin: 0;
 }
 
 @media (max-width: 1199px) {
   .u-section-4 .u-sheet-1 {
     min-height: 728px;
   }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-text-1 {
+    margin-top: 60px;
+    margin-bottom: 60px;
+  }
 }.u-section-5 .u-sheet-1 {
-  min-height: 650px;
+  min-height: 565px;
 }
 
 .u-section-5 .u-text-1 {
-  margin: 0 0 60px;
+  margin: 1px 0;
 }
 
 @media (max-width: 1199px) {
@@ -124,17 +87,17 @@
   .u-section-6 .u-sheet-1 {
     min-height: 728px;
   }
-}
-
-@media (max-width: 767px) {
-  .u-section-6 .u-text-1 {
-    margin-top: 60px;
-    margin-bottom: 60px;
-  }
 }.u-section-7 .u-sheet-1 {
-  min-height: 650px;
+  min-height: 427px;
 }
 
 .u-section-7 .u-text-1 {
-  margin: 0 0 60px;
+  margin: 0;
+}
+
+@media (max-width: 767px) {
+  .u-section-7 .u-text-1 {
+    margin-top: 60px;
+    margin-bottom: 60px;
+  }
 }
