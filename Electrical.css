@@ -1,13 +1,182 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 566px;
+  min-height: 730px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin: 70px 0;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 401px;
+  background-image: url("images/MultifunctionBluetoothControlledRobotSmartCarKitsForArduino-SKU103805-5896-1000x1000-1171690504.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-image-2 {
+  min-height: 199px;
+  background-image: url("images/cadCar1.PNG");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-1 .u-image-3 {
+  min-height: 199px;
+  background-image: url("images/cadCar3.PNG");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-1 .u-image-4 {
+  min-height: 199px;
+  background-image: url("images/cadCar2.PNG");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 30px;
+}
+
+.u-section-1 .u-layout-cell-5 {
+  min-height: 600px;
+}
+
+.u-section-1 .u-container-layout-5 {
+  padding: 30px 60px;
 }
 
 .u-section-1 .u-text-1 {
-  margin: 1px 0;
+  margin: 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 20px 0 0;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 728px;
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 331px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 164px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 164px;
+  }
+
+  .u-section-1 .u-image-4 {
+    min-height: 164px;
+  }
+
+  .u-section-1 .u-layout-cell-5 {
+    min-height: 495px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-image-1 {
+    min-height: 507px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 251px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 251px;
+  }
+
+  .u-section-1 .u-image-4 {
+    min-height: 251px;
+  }
+
+  .u-section-1 .u-layout-cell-5 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-container-layout-5 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-image-1 {
+    min-height: 380px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 565px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 565px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-image-4 {
+    min-height: 565px;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-5 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-image-1 {
+    min-height: 239px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 356px;
+  }
+
+  .u-section-1 .u-image-3 {
+    min-height: 356px;
+  }
+
+  .u-section-1 .u-image-4 {
+    min-height: 356px;
   }
 }
